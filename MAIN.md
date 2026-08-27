@@ -1,4 +1,4 @@
-# SLCC IT Club Operations and Officer Wiki
+# SOLACC IT Club Operations and Officer Wiki
 ### Official README.md explaining paths and summary of main club functions. 
 
 **IMPORTANT!** Note for future and present officers: Update these pages whenever a process changes. Keeping this documentation up to date is what keeps the club active after we graduate and ensure the club can maintain activity in a secure, organized manner.
@@ -39,4 +39,4 @@ This document and those accompanying are built as a documentation wikis to organ
    Step by step instructions for planning workshops, builds, and guest speakers.
 
 6. Security Practices (Security.md)
-   Transition steps for passing down accounts / credentials / and officer roles, as well as the Club's email, password, and various accounts.
+   Transition steps for passing down accounts / credentials / and officer roles, as well as the Club's email and various accounts. *Ensure this article maintains private status.*
