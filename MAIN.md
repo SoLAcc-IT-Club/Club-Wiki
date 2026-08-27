@@ -3,8 +3,10 @@
 
 **IMPORTANT!** Note for future and present officers: Update these pages whenever a process changes. Keeping this documentation up to date is what keeps the club active after we graduate and ensure the club can maintain activity in a secure, organized manner.
 
-This document and those accompanying are built as a documentation wikis to organize club procedures and operations. Ensure NO sensitive information about the club or its members, or inappropriate notes not related to club functions are added to this wiki.
+
+
 ---
+This document and those accompanying are built as a documentation wikis to organize club procedures and operations. Ensure NO sensitive information about the club or its members, or inappropriate notes not related to club functions are added to this wiki.
 
 ## Key Links
 * Public Website: https://solaccitclub.org
